@@ -1,0 +1,458 @@
+[
+  {
+    "id": "anjou",
+    "name": "Philippe Charles, Duke of Anjou",
+    "article": "Philippe Charles, Duke of Anjou",
+    "description": "A young French prince, the second son of Louis XIV."
+  },
+  {
+    "id": "elisabeth-hesse",
+    "name": "Princess Elisabeth of Hesse",
+    "article": "Princess Elisabeth of Hesse and by Rhine (1895–1903)",
+    "description": "A Hessian princess remembered in photographs and family memoirs."
+  },
+  {
+    "id": "marie-hesse",
+    "name": "Princess Marie of Hesse",
+    "article": "Princess Marie of Hesse and by Rhine (1874–1878)",
+    "description": "The youngest daughter of Princess Alice and Louis IV of Hesse."
+  },
+  {
+    "id": "barsi",
+    "name": "Judith Barsi",
+    "article": "Judith Barsi",
+    "description": "Child actor who voiced Ducky in The Land Before Time."
+  },
+  {
+    "id": "orourke",
+    "name": "Heather O’Rourke",
+    "article": "Heather O'Rourke",
+    "description": "American child actor known for the Poltergeist films."
+  },
+  {
+    "id": "samantha",
+    "name": "Samantha Smith",
+    "article": "Samantha Smith",
+    "description": "American schoolgirl who became a young peace ambassador."
+  },
+  {
+    "id": "louis-xvii",
+    "name": "Louis XVII",
+    "article": "Louis XVII",
+    "description": "The young son of Louis XVI and Marie Antoinette, who spent his final years in captivity."
+  },
+  {
+    "id": "sadako",
+    "name": "Sadako Sasaki",
+    "article": "Sadako Sasaki",
+    "description": "Japanese schoolgirl remembered through paper cranes and the wish for peace."
+  },
+  {
+    "id": "boyce",
+    "name": "Cameron Boyce",
+    "article": "Cameron Boyce",
+    "description": "American actor and dancer known for Jessie and Descendants."
+  },
+  {
+    "id": "phoenix",
+    "name": "River Phoenix",
+    "article": "River Phoenix",
+    "description": "American actor and musician who starred in My Own Private Idaho."
+  },
+  {
+    "id": "renfro",
+    "name": "Brad Renfro",
+    "article": "Brad Renfro",
+    "description": "American actor who made his screen debut in The Client."
+  },
+  {
+    "id": "yelchin",
+    "name": "Anton Yelchin",
+    "article": "Anton Yelchin",
+    "description": "Actor whose roles ranged from independent films to Star Trek."
+  },
+  {
+    "id": "aaliyah",
+    "name": "Aaliyah",
+    "article": "Aaliyah",
+    "description": "American singer, dancer, and actor whose work helped shape modern R&B."
+  },
+  {
+    "id": "selena",
+    "name": "Selena",
+    "article": "Selena",
+    "description": "American singer celebrated as a defining voice of Tejano music."
+  },
+  {
+    "id": "valens",
+    "name": "Ritchie Valens",
+    "article": "Ritchie Valens",
+    "description": "Singer and guitarist who brought La Bamba to rock and roll."
+  },
+  {
+    "id": "holly",
+    "name": "Buddy Holly",
+    "article": "Buddy Holly",
+    "description": "American songwriter and rock-and-roll pioneer."
+  },
+  {
+    "id": "cochran",
+    "name": "Eddie Cochran",
+    "article": "Eddie Cochran",
+    "description": "American musician known for Summertime Blues."
+  },
+  {
+    "id": "redding",
+    "name": "Otis Redding",
+    "article": "Otis Redding",
+    "description": "American soul singer and songwriter with an extraordinary expressive voice."
+  },
+  {
+    "id": "cooke",
+    "name": "Sam Cooke",
+    "article": "Sam Cooke",
+    "description": "American singer and songwriter whose music bridged gospel and soul."
+  },
+  {
+    "id": "cline",
+    "name": "Patsy Cline",
+    "article": "Patsy Cline",
+    "description": "American country singer known for Crazy and I Fall to Pieces."
+  },
+  {
+    "id": "williams",
+    "name": "Hank Williams",
+    "article": "Hank Williams",
+    "description": "American singer and songwriter whose songs became country standards."
+  },
+  {
+    "id": "joplin",
+    "name": "Janis Joplin",
+    "article": "Janis Joplin",
+    "description": "American singer with a raw, powerful blues voice."
+  },
+  {
+    "id": "morrison-jim",
+    "name": "Jim Morrison",
+    "article": "Jim Morrison",
+    "description": "American singer, poet, and frontman of the Doors."
+  },
+  {
+    "id": "cobain",
+    "name": "Kurt Cobain",
+    "article": "Kurt Cobain",
+    "description": "American musician and songwriter who fronted Nirvana."
+  },
+  {
+    "id": "buckley",
+    "name": "Jeff Buckley",
+    "article": "Jeff Buckley",
+    "description": "American singer and guitarist, remembered for his album Grace."
+  },
+  {
+    "id": "drake",
+    "name": "Nick Drake",
+    "article": "Nick Drake",
+    "description": "English songwriter whose quiet recordings found a growing audience over time."
+  },
+  {
+    "id": "marley",
+    "name": "Bob Marley",
+    "article": "Bob Marley",
+    "description": "Jamaican singer and songwriter who carried reggae to a worldwide audience."
+  },
+  {
+    "id": "tupac",
+    "name": "Tupac Shakur",
+    "article": "Tupac Shakur",
+    "description": "American rapper, poet, and actor."
+  },
+  {
+    "id": "biggie",
+    "name": "The Notorious B.I.G.",
+    "article": "The Notorious B.I.G.",
+    "description": "American rapper known for vivid storytelling and a distinctive flow."
+  },
+  {
+    "id": "avicii",
+    "name": "Avicii",
+    "article": "Avicii",
+    "description": "Swedish producer and DJ who brought melodic electronic music to a global audience."
+  },
+  {
+    "id": "ledger",
+    "name": "Heath Ledger",
+    "article": "Heath Ledger",
+    "description": "Australian actor whose work included Brokeback Mountain and The Dark Knight."
+  },
+  {
+    "id": "dean",
+    "name": "James Dean",
+    "article": "James Dean",
+    "description": "American actor who starred in East of Eden and Rebel Without a Cause."
+  },
+  {
+    "id": "belushi",
+    "name": "John Belushi",
+    "article": "John Belushi",
+    "description": "American comic actor, musician, and original Saturday Night Live cast member."
+  },
+  {
+    "id": "farley",
+    "name": "Chris Farley",
+    "article": "Chris Farley",
+    "description": "American comedian known for exuberant physical comedy."
+  },
+  {
+    "id": "murphy",
+    "name": "Brittany Murphy",
+    "article": "Brittany Murphy",
+    "description": "American actor whose films included Clueless and 8 Mile."
+  },
+  {
+    "id": "boseman",
+    "name": "Chadwick Boseman",
+    "article": "Chadwick Boseman",
+    "description": "American actor who portrayed Black Panther and several historic figures."
+  },
+  {
+    "id": "houston",
+    "name": "Whitney Houston",
+    "article": "Whitney Houston",
+    "description": "American singer and actor with one of popular music’s most recognizable voices."
+  },
+  {
+    "id": "jackson",
+    "name": "Michael Jackson",
+    "article": "Michael Jackson",
+    "description": "American singer, dancer, and songwriter."
+  },
+  {
+    "id": "prince",
+    "name": "Prince",
+    "article": "Prince (musician)",
+    "description": "American multi-instrumentalist, songwriter, and singular performer."
+  },
+  {
+    "id": "lennon",
+    "name": "John Lennon",
+    "article": "John Lennon",
+    "description": "English musician, songwriter, and member of the Beatles."
+  },
+  {
+    "id": "harrison",
+    "name": "George Harrison",
+    "article": "George Harrison",
+    "description": "English guitarist and songwriter, and a member of the Beatles."
+  },
+  {
+    "id": "presley",
+    "name": "Elvis Presley",
+    "article": "Elvis Presley",
+    "description": "American singer and actor whose performances helped popularize rock and roll."
+  },
+  {
+    "id": "turing",
+    "name": "Alan Turing",
+    "article": "Alan Turing",
+    "description": "Mathematician whose ideas helped establish computer science."
+  },
+  {
+    "id": "ramanujan",
+    "name": "Srinivasa Ramanujan",
+    "article": "Srinivasa Ramanujan",
+    "description": "Indian mathematician known for remarkable discoveries in number theory."
+  },
+  {
+    "id": "raman",
+    "name": "C. V. Raman",
+    "article": "C. V. Raman",
+    "description": "Indian physicist whose work revealed a new way light scatters."
+  },
+  {
+    "id": "einstein",
+    "name": "Albert Einstein",
+    "article": "Albert Einstein",
+    "description": "Physicist whose theories changed how we understand space, time, and gravity."
+  },
+  {
+    "id": "tesla",
+    "name": "Nikola Tesla",
+    "article": "Nikola Tesla",
+    "description": "Inventor and electrical engineer who developed alternating-current technologies."
+  },
+  {
+    "id": "franklin",
+    "name": "Rosalind Franklin",
+    "article": "Rosalind Franklin",
+    "description": "Chemist whose X-ray diffraction research helped reveal the structure of DNA."
+  },
+  {
+    "id": "carson",
+    "name": "Rachel Carson",
+    "article": "Rachel Carson",
+    "description": "Marine biologist and author of Silent Spring."
+  },
+  {
+    "id": "hawking",
+    "name": "Stephen Hawking",
+    "article": "Stephen Hawking",
+    "description": "Theoretical physicist who studied black holes and the early universe."
+  },
+  {
+    "id": "sagan",
+    "name": "Carl Sagan",
+    "article": "Carl Sagan",
+    "description": "Astronomer and writer who invited millions to consider the cosmos."
+  },
+  {
+    "id": "chawla",
+    "name": "Kalpana Chawla",
+    "article": "Kalpana Chawla",
+    "description": "Astronaut and engineer, and the first woman of Indian origin in space."
+  },
+  {
+    "id": "ride",
+    "name": "Sally Ride",
+    "article": "Sally Ride",
+    "description": "Physicist and astronaut who became the first American woman in space."
+  },
+  {
+    "id": "gagarin",
+    "name": "Yuri Gagarin",
+    "article": "Yuri Gagarin",
+    "description": "Soviet cosmonaut who became the first human to travel into space."
+  },
+  {
+    "id": "saint-exupery",
+    "name": "Antoine de Saint-Exupéry",
+    "article": "Antoine de Saint-Exupéry",
+    "description": "French aviator and author of The Little Prince."
+  },
+  {
+    "id": "camus",
+    "name": "Albert Camus",
+    "article": "Albert Camus",
+    "description": "French-Algerian novelist, essayist, and Nobel laureate."
+  },
+  {
+    "id": "orwell",
+    "name": "George Orwell",
+    "article": "George Orwell",
+    "description": "English author of Nineteen Eighty-Four and Animal Farm."
+  },
+  {
+    "id": "woolf",
+    "name": "Virginia Woolf",
+    "article": "Virginia Woolf",
+    "description": "English novelist and essayist who explored the movement of thought."
+  },
+  {
+    "id": "baldwin",
+    "name": "James Baldwin",
+    "article": "James Baldwin",
+    "description": "American novelist and essayist who wrote about identity, belonging, and justice."
+  },
+  {
+    "id": "angelou",
+    "name": "Maya Angelou",
+    "article": "Maya Angelou",
+    "description": "American poet, memoirist, and performer."
+  },
+  {
+    "id": "hughes",
+    "name": "Langston Hughes",
+    "article": "Langston Hughes",
+    "description": "American poet and a central voice of the Harlem Renaissance."
+  },
+  {
+    "id": "dickinson",
+    "name": "Emily Dickinson",
+    "article": "Emily Dickinson",
+    "description": "American poet whose compact poems open onto enormous questions."
+  },
+  {
+    "id": "tagore",
+    "name": "Rabindranath Tagore",
+    "article": "Rabindranath Tagore",
+    "description": "Bengali poet, composer, and Nobel laureate."
+  },
+  {
+    "id": "neruda",
+    "name": "Pablo Neruda",
+    "article": "Pablo Neruda",
+    "description": "Chilean poet and Nobel laureate."
+  },
+  {
+    "id": "mistral",
+    "name": "Gabriela Mistral",
+    "article": "Gabriela Mistral",
+    "description": "Chilean poet, educator, and Nobel laureate."
+  },
+  {
+    "id": "lispector",
+    "name": "Clarice Lispector",
+    "article": "Clarice Lispector",
+    "description": "Brazilian novelist whose writing explores the inner life."
+  },
+  {
+    "id": "chopin",
+    "name": "Frédéric Chopin",
+    "article": "Frédéric Chopin",
+    "description": "Polish composer and pianist who found a world of expression in the piano."
+  },
+  {
+    "id": "mendelssohn",
+    "name": "Felix Mendelssohn",
+    "article": "Felix Mendelssohn",
+    "description": "German composer, pianist, and conductor."
+  },
+  {
+    "id": "bizet",
+    "name": "Georges Bizet",
+    "article": "Georges Bizet",
+    "description": "French composer best known for the opera Carmen."
+  },
+  {
+    "id": "modigliani",
+    "name": "Amedeo Modigliani",
+    "article": "Amedeo Modigliani",
+    "description": "Italian artist known for elongated portraits and sculpture."
+  },
+  {
+    "id": "haring",
+    "name": "Keith Haring",
+    "article": "Keith Haring",
+    "description": "American artist whose energetic figures moved between streets and galleries."
+  },
+  {
+    "id": "okeeffe",
+    "name": "Georgia O’Keeffe",
+    "article": "Georgia O'Keeffe",
+    "description": "American painter of flowers, landscapes, and architectural forms."
+  },
+  {
+    "id": "hokusai",
+    "name": "Katsushika Hokusai",
+    "article": "Hokusai",
+    "description": "Japanese artist whose prints include The Great Wave off Kanagawa."
+  },
+  {
+    "id": "king",
+    "name": "Martin Luther King Jr.",
+    "article": "Martin Luther King Jr.",
+    "description": "American civil rights leader and Nobel Peace Prize laureate."
+  },
+  {
+    "id": "mandela",
+    "name": "Nelson Mandela",
+    "article": "Nelson Mandela",
+    "description": "South African anti-apartheid leader and president."
+  },
+  {
+    "id": "parks",
+    "name": "Rosa Parks",
+    "article": "Rosa Parks",
+    "description": "American civil rights activist whose work helped challenge racial segregation."
+  }
+]

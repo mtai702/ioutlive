@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f5f0e7">
+  <meta name="description" content="A small autumnal meditation on the years you've lived.">
+  <title>I outlive — a little more time</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="data.js" defer></script>
+  <script src="portraits.js" defer></script>
+  <script src="i18n.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <header><a class="wordmark" href="./">ioutlive<span> . </span></a><span class="edition" id="edition">a little more time</span><label class="language-picker"><span class="sr-only" id="language-label">Display language</span><select id="language"><option value="en" lang="en">English</option><option value="zh" lang="zh-CN">中文</option></select></label></header>
+  <main>
+    <svg id="garden" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"></svg>
+    <svg id="title-twigs" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"></svg>
+    <section class="intro" aria-label="Your age">
+      <p class="eyebrow" id="intro-eyebrow">AN EXERCISE IN STILL BEING HERE</p>
+      <form id="age-form">
+        <h1><span id="title-prefix">I am </span><label class="age-wrap"><span class="sr-only" id="age-label">Your age in whole years, no upper limit</span><input id="age" type="text" pattern="[0-9]+" placeholder="__" required autocomplete="off" inputmode="numeric" aria-describedby="status"></label><br class="mobile-break"><span id="title-years"> years old,</span><br><span id="title-outlive">I outlive</span><span class="period">.</span></h1>
+      </form>
+      <p id="status" role="status">A few more rings. A little more autumn.</p>
+    </section>
+    <div id="fallen" aria-label="People you have outlived"></div>
+    <section id="results" hidden>
+      <div class="result-heading"><p id="count"></p><button id="replay" type="button">Another breeze ↻</button></div>
+      <details><summary id="names-summary">Read the names</summary><div id="names"></div></details>
+    </section>
+  </main>
+  <footer><span id="footer-line">Time grows. Leaves fall. You’re here.</span><button id="motion" type="button" aria-pressed="false">Pause motion</button></footer>
+  <dialog id="person"><button class="close" aria-label="Close details">×</button><p class="eyebrow" id="person-eyebrow">A LIFE, HOWEVER LONG</p><img id="person-portrait" alt="" hidden><h2 id="person-name"></h2><p id="person-dates"></p><p id="person-description"></p><a id="person-source" target="_blank" rel="noopener noreferrer">Read their story ↗</a><a id="image-source" target="_blank" rel="noopener noreferrer" hidden>Image source &amp; credits ↗</a></dialog>
+</body>
+</html>

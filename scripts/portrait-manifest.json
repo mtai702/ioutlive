@@ -1,0 +1,418 @@
+[
+  {
+    "id": "joan",
+    "article": "Joan of Arc"
+  },
+  {
+    "id": "galois",
+    "article": "Évariste Galois"
+  },
+  {
+    "id": "schiele",
+    "article": "Egon Schiele"
+  },
+  {
+    "id": "plath",
+    "article": "Sylvia Plath"
+  },
+  {
+    "id": "keats",
+    "article": "John Keats"
+  },
+  {
+    "id": "basquiat",
+    "article": "Jean-Michel Basquiat"
+  },
+  {
+    "id": "winehouse",
+    "article": "Amy Winehouse"
+  },
+  {
+    "id": "hendrix",
+    "article": "Jimi Hendrix"
+  },
+  {
+    "id": "bronte",
+    "article": "Emily Brontë"
+  },
+  {
+    "id": "schubert",
+    "article": "Franz Schubert"
+  },
+  {
+    "id": "lee",
+    "article": "Bruce Lee"
+  },
+  {
+    "id": "carpenter",
+    "article": "Karen Carpenter"
+  },
+  {
+    "id": "mozart",
+    "article": "Wolfgang Amadeus Mozart"
+  },
+  {
+    "id": "monroe",
+    "article": "Marilyn Monroe"
+  },
+  {
+    "id": "lovelace",
+    "article": "Ada Lovelace"
+  },
+  {
+    "id": "vangogh",
+    "article": "Vincent van Gogh"
+  },
+  {
+    "id": "austen",
+    "article": "Jane Austen"
+  },
+  {
+    "id": "mercury",
+    "article": "Freddie Mercury"
+  },
+  {
+    "id": "kahlo",
+    "article": "Frida Kahlo"
+  },
+  {
+    "id": "shakespeare",
+    "article": "William Shakespeare"
+  },
+  {
+    "id": "beethoven",
+    "article": "Ludwig van Beethoven"
+  },
+  {
+    "id": "bowie",
+    "article": "David Bowie"
+  },
+  {
+    "id": "curie",
+    "article": "Marie Curie"
+  },
+  {
+    "id": "morrison",
+    "article": "Toni Morrison"
+  },
+  {
+    "id": "anjou",
+    "article": "Philippe Charles, Duke of Anjou"
+  },
+  {
+    "id": "elisabeth-hesse",
+    "article": "Princess Elisabeth of Hesse and by Rhine (1895–1903)"
+  },
+  {
+    "id": "marie-hesse",
+    "article": "Princess Marie of Hesse and by Rhine (1874–1878)"
+  },
+  {
+    "id": "barsi",
+    "article": "Judith Barsi"
+  },
+  {
+    "id": "orourke",
+    "article": "Heather O'Rourke"
+  },
+  {
+    "id": "samantha",
+    "article": "Samantha Smith"
+  },
+  {
+    "id": "louis-xvii",
+    "article": "Louis XVII"
+  },
+  {
+    "id": "sadako",
+    "article": "Sadako Sasaki"
+  },
+  {
+    "id": "boyce",
+    "article": "Cameron Boyce"
+  },
+  {
+    "id": "phoenix",
+    "article": "River Phoenix"
+  },
+  {
+    "id": "renfro",
+    "article": "Brad Renfro"
+  },
+  {
+    "id": "yelchin",
+    "article": "Anton Yelchin"
+  },
+  {
+    "id": "aaliyah",
+    "article": "Aaliyah"
+  },
+  {
+    "id": "selena",
+    "article": "Selena"
+  },
+  {
+    "id": "valens",
+    "article": "Ritchie Valens"
+  },
+  {
+    "id": "holly",
+    "article": "Buddy Holly"
+  },
+  {
+    "id": "cochran",
+    "article": "Eddie Cochran"
+  },
+  {
+    "id": "redding",
+    "article": "Otis Redding"
+  },
+  {
+    "id": "cooke",
+    "article": "Sam Cooke"
+  },
+  {
+    "id": "cline",
+    "article": "Patsy Cline"
+  },
+  {
+    "id": "williams",
+    "article": "Hank Williams"
+  },
+  {
+    "id": "joplin",
+    "article": "Janis Joplin"
+  },
+  {
+    "id": "morrison-jim",
+    "article": "Jim Morrison"
+  },
+  {
+    "id": "cobain",
+    "article": "Kurt Cobain"
+  },
+  {
+    "id": "buckley",
+    "article": "Jeff Buckley"
+  },
+  {
+    "id": "drake",
+    "article": "Nick Drake"
+  },
+  {
+    "id": "marley",
+    "article": "Bob Marley"
+  },
+  {
+    "id": "tupac",
+    "article": "Tupac Shakur"
+  },
+  {
+    "id": "biggie",
+    "article": "The Notorious B.I.G."
+  },
+  {
+    "id": "avicii",
+    "article": "Avicii"
+  },
+  {
+    "id": "ledger",
+    "article": "Heath Ledger"
+  },
+  {
+    "id": "dean",
+    "article": "James Dean"
+  },
+  {
+    "id": "belushi",
+    "article": "John Belushi"
+  },
+  {
+    "id": "farley",
+    "article": "Chris Farley"
+  },
+  {
+    "id": "murphy",
+    "article": "Brittany Murphy"
+  },
+  {
+    "id": "boseman",
+    "article": "Chadwick Boseman"
+  },
+  {
+    "id": "houston",
+    "article": "Whitney Houston"
+  },
+  {
+    "id": "jackson",
+    "article": "Michael Jackson"
+  },
+  {
+    "id": "prince",
+    "article": "Prince (musician)"
+  },
+  {
+    "id": "lennon",
+    "article": "John Lennon"
+  },
+  {
+    "id": "harrison",
+    "article": "George Harrison"
+  },
+  {
+    "id": "presley",
+    "article": "Elvis Presley"
+  },
+  {
+    "id": "turing",
+    "article": "Alan Turing"
+  },
+  {
+    "id": "ramanujan",
+    "article": "Srinivasa Ramanujan"
+  },
+  {
+    "id": "raman",
+    "article": "C. V. Raman"
+  },
+  {
+    "id": "einstein",
+    "article": "Albert Einstein"
+  },
+  {
+    "id": "tesla",
+    "article": "Nikola Tesla"
+  },
+  {
+    "id": "franklin",
+    "article": "Rosalind Franklin"
+  },
+  {
+    "id": "carson",
+    "article": "Rachel Carson"
+  },
+  {
+    "id": "hawking",
+    "article": "Stephen Hawking"
+  },
+  {
+    "id": "sagan",
+    "article": "Carl Sagan"
+  },
+  {
+    "id": "chawla",
+    "article": "Kalpana Chawla"
+  },
+  {
+    "id": "ride",
+    "article": "Sally Ride"
+  },
+  {
+    "id": "gagarin",
+    "article": "Yuri Gagarin"
+  },
+  {
+    "id": "saint-exupery",
+    "article": "Antoine de Saint-Exupéry"
+  },
+  {
+    "id": "camus",
+    "article": "Albert Camus"
+  },
+  {
+    "id": "orwell",
+    "article": "George Orwell"
+  },
+  {
+    "id": "woolf",
+    "article": "Virginia Woolf"
+  },
+  {
+    "id": "baldwin",
+    "article": "James Baldwin"
+  },
+  {
+    "id": "angelou",
+    "article": "Maya Angelou"
+  },
+  {
+    "id": "hughes",
+    "article": "Langston Hughes"
+  },
+  {
+    "id": "dickinson",
+    "article": "Emily Dickinson"
+  },
+  {
+    "id": "tagore",
+    "article": "Rabindranath Tagore"
+  },
+  {
+    "id": "neruda",
+    "article": "Pablo Neruda"
+  },
+  {
+    "id": "mistral",
+    "article": "Gabriela Mistral"
+  },
+  {
+    "id": "lispector",
+    "article": "Clarice Lispector"
+  },
+  {
+    "id": "chopin",
+    "article": "Frédéric Chopin"
+  },
+  {
+    "id": "mendelssohn",
+    "article": "Felix Mendelssohn"
+  },
+  {
+    "id": "bizet",
+    "article": "Georges Bizet"
+  },
+  {
+    "id": "modigliani",
+    "article": "Amedeo Modigliani"
+  },
+  {
+    "id": "haring",
+    "article": "Keith Haring"
+  },
+  {
+    "id": "okeeffe",
+    "article": "Georgia O'Keeffe"
+  },
+  {
+    "id": "king",
+    "article": "Martin Luther King Jr."
+  },
+  {
+    "id": "mandela",
+    "article": "Nelson Mandela"
+  },
+  {
+    "id": "parks",
+    "article": "Rosa Parks"
+  },
+  {
+    "id": "hokusai",
+    "article": "Hokusai"
+  },
+  {
+    "id": "simeis147",
+    "article": "Simeis_147"
+  },
+  {
+    "id": "jellyfish",
+    "article": "IC_443"
+  },
+  {
+    "id": "vela",
+    "article": "Vela_supernova_remnant"
+  },
+  {
+    "id": "stingray",
+    "article": "Stingray_Nebula"
+  }
+]
